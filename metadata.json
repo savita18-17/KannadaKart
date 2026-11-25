@@ -1,0 +1,6 @@
+{
+  "name": "KannadaKart",
+  "description": "Kannada-first rural e-commerce platform connecting Karnataka farmers, artisans, and shopkeepers with buyers through Kannada voice search and an AI seller assistant.",
+  "requestFramePermissions": ["microphone", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
